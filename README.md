@@ -1,1 +1,1 @@
-Initial commit
+This is Organization configuration project
