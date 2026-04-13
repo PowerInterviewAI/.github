@@ -1,4 +1,4 @@
-## PowerInterviewAI
+## Power Interview AI
 
 **Privacy-first AI interview assistant** for technical and behavioral interviews-built for real, live interview scenarios.
 
@@ -10,7 +10,6 @@ PowerInterviewAI helps job seekers perform better with **real-time transcription
 - **Code Suggestions:** Screenshot-based coding help with syntax-highlighted solutions  
 - **Stealth Mode:** Discreet on-screen operation (hotkeys, opacity, positioning) designed to be **non-capturable** during screen share  
 - **Smart Export:** DOCX transcript export with AI summaries, insights, and communication-pattern analysis  
-- **Real-Time Face Swap:** Live video transformation via OBS + VB-Cable (intended for legal, responsible use)
 
 ### Platform
 - **Windows** (MacOS & Linux coming soon)
